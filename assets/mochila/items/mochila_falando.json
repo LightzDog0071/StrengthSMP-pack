@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mochila:item/mochila_falando",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -4556576
+      }
+    ]
+  }
+}
