@@ -5,6 +5,6 @@ Resource pack do Strength SMP (modelos do *Strength Item*, do *Revive Kit* , da 
 Download direto (para o `server.properties`):
 
 ```
-resource-pack=https://github.com/LightzDog0071/StrengthSMP-pack/releases/download/v15/StrengthSMP.zip
-resource-pack-sha1=de58e62437dca8dc31ea56f43b3b7f1305d7a5c3
+resource-pack=https://github.com/LightzDog0071/StrengthSMP-pack/releases/download/v16/StrengthSMP.zip
+resource-pack-sha1=ce7067071a16d293db45e94cfa0ce284e4ef9a41
 ```

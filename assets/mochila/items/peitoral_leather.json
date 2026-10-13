@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/leather_chestplate",
+        "tints": [
+          {
+            "type": "minecraft:dye",
+            "default": -6265536
+          }
+        ]
+      },
+      {
+        "type": "minecraft:model",
+        "model": "mochila:item/selo_mochila"
+      }
+    ]
+  }
+}
