@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mochila:item/mochila_couro",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": 14256455
+      }
+    ]
+  }
+}

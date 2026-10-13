@@ -1,0 +1,8 @@
+{
+  "abrir": {
+    "subtitle": "Mochila",
+    "sounds": [
+      { "name": "mochila:abrir", "stream": true }
+    ]
+  }
+}
